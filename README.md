@@ -1,6 +1,6 @@
 # PyHEP2023
 <div>
-<img src="img/IRIS-HEP%20logo.png" width="200" align="right"/>
+<img src="slides/img/IRIS-HEP%20logo.png" width="200" align="right"/>
 </div>
 
 # Python-C++ JIT for better or worse?
@@ -15,14 +15,14 @@ I'd like to discuss Python-C++, JIT and related packages with emphasis on perfor
 
 ## Authors
 <div>
-<img src="img/Princeton%20logo.png" width="150" align="right"/>
+<img src="slides/img/Princeton%20logo.png" width="150" align="right"/>
 </div>
 
 - Ianna Osborne, Princeton University
 
 ## Acknowledgements
 <div>
-<img src="img/NSF%20logo.png" width="60" align="left"/>
+<img src="slides/img/NSF%20logo.png" width="60" align="left"/>
 </div>
 
 Support for this work was provided by NSF cooperative agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) (IRIS-HEP)
