@@ -7,7 +7,6 @@
 
 This is the repository for the talk [Python-C++ JIT for better or worse?](https://indico.cern.ch/event/1234156/timetable/#20230725.detailed) presented at the [PyHEP 2023 Workshop](https://indico.cern.ch/event/1234156/) on July 25, 2023.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7081586.svg)](https://doi.org/10.5281/zenodo.7081586)
 
 ## Abstract
 
